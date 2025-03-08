@@ -22,10 +22,8 @@ app.get('/', (c) => {
                         <body>
                             <h1>Meting API</h1>
                             <p>
-                                <a href="https://github.com/xizeyoupan/Meting-API" style="text-decoration: none;">
+                                <a href="https://github.com/NaiHeeeee/Meting-API" style="text-decoration: none;">
                                     <img alt="Static Badge" src="https://img.shields.io/badge/Github-Meting-green">
-                                    <img alt="GitHub forks" src="https://img.shields.io/github/forks/xizeyoupan/Meting-API">
-                                    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xizeyoupan/Meting-API">
                                 </a>
                             </p>
 
