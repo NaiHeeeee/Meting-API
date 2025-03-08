@@ -8,7 +8,7 @@ export default async (ctx) => {
     const query = ctx.req.query()
     const server = query.server || 'netease'
     const type = query.type || 'playlist'
-    const id = query.id || '7326220405'
+    const id = query.id || '3778678'
 
     if (!p.get_provider_list().includes(server) || !p.get(server).support_type.includes(type)) {
         ctx.status(400)
